@@ -7,4 +7,6 @@ This project is about writing a C++ program that draws the 3D DOG
 
 ## Project 2
 This Project is about writing a C++ program that draws the 3D sphere
+![Sphere](https://github.com/ashishT1712/AdvancedGraphicsAlgorithm/blob/master/Tiwari_Proj2/sphere.png)
+
 
